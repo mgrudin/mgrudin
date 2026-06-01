@@ -8,9 +8,9 @@ I started out in game development — shipped **5 mobile titles** across genres 
 
 ## 🛠️ Tech
 
-**Languages:** Python · C# · GDScript · JavaScript
-**Backend:** FastAPI · SQLAlchemy · SQLite · REST APIs
-**Game Dev:** Godot · Unity
+**Languages:** Python · C# · GDScript · JavaScript\
+**Backend:** FastAPI · SQLAlchemy · SQLite · REST APIs\
+**Game Dev:** Godot · Unity\
 **Tools:** Git
 
 ## 🚀 Featured Projects
