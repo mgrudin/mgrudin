@@ -1,21 +1,38 @@
-## Hi! Nice to meet you. 👋
+# Hi, I'm Maksym 👋
 
-Welcome to my page.
-I'm Maksym Hrudin, Game Developer from 🇺🇦 Mariupol, Ukraine, currently living in 🇮🇪 Dungarvan, Ireland.
+Software Developer from 🇺🇦 Mariupol, now based in 🇮🇪 Dungarvan, Ireland.
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+I started out in game development — shipped **5 mobile titles** across genres (idle, physics puzzle, platformer, slots, hypercasual tower defense) — and I'm now focused on **backend development with Python**. I'm the kind of developer who picks up a new framework by building something real with it.
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width=40 height=40 alt="c#"></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width=40 height=40 alt="python"></a>
-<a href="https://nim-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" width=40 height=40 alt="nim"></a>
-<a href="https://godotengine.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" width=40 height=40 alt="godot"></a>
-<a href="https://unity.com/" target="_blank"><img src="https://cdn.sanity.io/images/fuvbjjlp/production/2495ab2daae11fd3ed5d6b84477d513869f9a1b4-89x100.png" width=40 height=40 alt="unity"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40 height=40 alt="git"></a>
+🔎 **Open to mid-level Software / Backend Developer roles — remote or Ireland-based.**
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+## 🛠️ Tech
 
-- 💻 I'm a Game Developer, currently exploring new interesting projects
-- 🌱 I’m currently learning C language to better understand how memory works
-- 👯 Always ready to collaborate for Dev Experiments
-- 💬 Ask me about anything related to Godot
-- ⚡ Fun fact: I ❤️ gaming, especially RPGs and Puzzles
+**Languages:** Python · C# · GDScript · JavaScript
+**Backend:** FastAPI · SQLAlchemy · SQLite · REST APIs
+**Game Dev:** Godot · Unity
+**Tools:** Git
+
+## 🚀 Featured Projects
+
+### [NewsHub](https://github.com/mgrudin/newshub)
+RSS aggregator with AI-powered summarization. Built with Python, FastAPI and SQLAlchemy — fetches and de-duplicates feeds, stores articles, and summarizes them with an LLM. *In active development.*
+
+### [godot-smartlook-android](https://github.com/mgrudin/godot-smartlook-android)
+Godot Android plugin integrating the Smartlook SDK.
+
+### [Advent of Code](https://github.com/mgrudin/aoc)
+Algorithm and data-structure problem solving in Python.
+
+## 👨‍💻 About
+
+- 🔭 Currently building **NewsHub** — an RSS aggregator with AI summarization (Python · FastAPI)
+- 💼 5 shipped mobile games across two studios, working on gameplay
+- 🌱 Exploring C and low-level systems, and sharpening algorithms in Python
+- 🧩 Puzzle-game enthusiast — The Witness, Stephen's Sausage Roll, Zachtronics — it shapes how I approach problem-solving
+- 💬 Happy to talk Python, backend architecture, or Godot
+
+## 📫 Connect
+
+- LinkedIn: [maksym-hrudin](https://www.linkedin.com/in/maksym-hrudin/)
+- Email: Hrudin.Maks@proton.me
